@@ -1,0 +1,15 @@
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/obj/Debug/net6.0/Lexiy4 2h mern massiv.csproj.AssemblyReference.cache
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/obj/Debug/net6.0/Lexiy4 2h mern massiv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/obj/Debug/net6.0/Lexiy4 2h mern massiv.AssemblyInfoInputs.cache
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/obj/Debug/net6.0/Lexiy4 2h mern massiv.AssemblyInfo.cs
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/obj/Debug/net6.0/Lexiy4 2h mern massiv.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/bin/Debug/net6.0/Lexiy4 2h mern massiv
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/bin/Debug/net6.0/Lexiy4 2h mern massiv.deps.json
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/bin/Debug/net6.0/Lexiy4 2h mern massiv.runtimeconfig.json
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/bin/Debug/net6.0/Lexiy4 2h mern massiv.dll
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/bin/Debug/net6.0/Lexiy4 2h mern massiv.pdb
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/obj/Debug/net6.0/Lexiy4 2h mern massiv.dll
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/obj/Debug/net6.0/refint/Lexiy4 2h mern massiv.dll
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/obj/Debug/net6.0/Lexiy4 2h mern massiv.pdb
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/obj/Debug/net6.0/Lexiy4 2h mern massiv.genruntimeconfig.cache
+/Users/aleksandr/Documents/c#/Lexiy4 2h mern massiv/obj/Debug/net6.0/ref/Lexiy4 2h mern massiv.dll
